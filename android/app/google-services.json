@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953416378916",
+    "project_id": "user-role-access",
+    "storage_bucket": "user-role-access.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953416378916:android:17946732ccc4a75a0506b1",
+        "android_client_info": {
+          "package_name": "com.userrole.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbinHkPbeZtlHuUKgV7-rNrMq_uVxuGvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
